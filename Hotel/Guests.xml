@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Guests>
+	<Guest>
+		<Id>1</Id>
+		<Number>300</Number>
+		<Name>Рэйтан</Name>
+		<Surname>Вайш</Surname>
+		<Patronymic></Patronymic>
+		<Status>Занято</Status>
+		<Birthday></Birthday>
+		<Pay>Карта</Pay>
+		<ArrivalDate>31.01.2024</ArrivalDate>
+		<Days>15</Days>
+		<PhotoPath></PhotoPath>
+		<WithAnimal>False</WithAnimal>
+	</Guest>
+
+	<Guest>
+		<Id>2</Id>
+		<Number>1</Number>
+		<Name>Вики</Name>
+		<Surname>Уокер</Surname>
+		<Patronymic>Небесновна</Patronymic>
+		<Status>Занято</Status>
+		<Birthday>28.11.1999</Birthday>
+		<Pay>Карта</Pay>
+		<ArrivalDate>31.01.2024</ArrivalDate>
+		<Days>3</Days>
+		<PhotoPath></PhotoPath>
+		<WithAnimal>True</WithAnimal>
+	</Guest>
+
+	<Guest>
+		<Id>3</Id>
+		<Number>22</Number>
+		<Name>Ливий</Name>
+		<Surname>Пеллийский</Surname>
+		<Patronymic>Нилович</Patronymic>
+		<Status>Забронировано</Status>
+		<Birthday>03.07.1997</Birthday>
+		<Pay>Наличные</Pay>
+		<ArrivalDate>31.01.2024</ArrivalDate>
+		<Days>7</Days>
+		<PhotoPath></PhotoPath>
+		<WithAnimal>False</WithAnimal>
+	</Guest>
+
+	<Guest>
+		<Id>4</Id>
+		<Number>100</Number>
+		<Name>Сэмюэль</Name>
+		<Surname>Макото</Surname>
+		<Patronymic>Нобусадо</Patronymic>
+		<Status>Выписываются</Status>
+		<Birthday>09.09.1996</Birthday>
+		<Pay>Карта</Pay>
+		<ArrivalDate>31.01.2024</ArrivalDate>
+		<Days>4</Days>
+		<PhotoPath></PhotoPath>
+		<WithAnimal>False</WithAnimal>
+	</Guest>
+
+
+</Guests>
